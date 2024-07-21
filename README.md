@@ -1,1 +1,1 @@
-# Personal website template for future use
+# Website Template
